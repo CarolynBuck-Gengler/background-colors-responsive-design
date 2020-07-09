@@ -59,6 +59,10 @@ footer {
 /* Change the background colors below */
 
 @media (min-width: 768px) {
+  .col-3 {
+    width: 33.33%;
+  }
+
   header {
     background-color: #a7a6a6;
   }
